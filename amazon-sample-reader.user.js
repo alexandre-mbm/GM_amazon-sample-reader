@@ -27,3 +27,6 @@ function go() {
 }
 
 waitForKeyElements ('#one-click-button', go);
+
+// http://userscripts-mirror.org/scripts/review/61073
+// http://stackoverflow.com/a/11197969/3391915
